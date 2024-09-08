@@ -1,7 +1,7 @@
 
-# 🚀 Corso Base di Programmazione
+# 🚀 CODING ZERO 24
 
-Benvenuti alla repository ufficiale del **Corso Base di Programmazione**! 🎉
+Benvenuti alla repository ufficiale del **CODING ZERO**! 🎉
 
 In questa repo troverete tutto il materiale necessario per seguire il corso: codice, slide, esercizi e ulteriori risorse. Siamo entusiasti di accompagnarvi in questo viaggio alla scoperta della programmazione! 💻
 
@@ -70,8 +70,10 @@ Se vuoi contribuire al miglioramento di questa repo (ad esempio correggendo erro
 
 ## 📧 Contatti
 
-Per qualsiasi dubbio o domanda, puoi contattare l'insegnante del corso:
-- **Nome Insegnante**: tuo_email@example.com
+Per qualsiasi dubbio o domanda, puoi contattare gli insegnante del corso:
+- **Daniele Susino**:
+- **Diego Corona**:
+- **Gabriele Iovino**: gabrieleiovino839@gmail.com
 
 ---
 
