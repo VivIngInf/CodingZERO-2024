@@ -71,9 +71,9 @@ Se vuoi contribuire al miglioramento di questa repo (ad esempio correggendo erro
 ## 📧 Contatti
 
 Per qualsiasi dubbio o domanda, puoi contattare gli insegnante del corso:
-- **Daniele Susino**:
-- **Diego Corona**:
-- **Gabriele Iovino**: gabrieleiovino839@gmail.com
+- **Daniele Susino**: susino.daniele@outlook.com
+- **Diego Corona**: corona.diego@outlook.com
+- **Gabriele Iovino**: gabrieleiovino839@gmail.com 
 
 ---
 
