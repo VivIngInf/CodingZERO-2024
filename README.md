@@ -53,7 +53,7 @@ Ogni lezione sarà suddivisa in una parte teorica e una pratica. Qui sotto trove
 
 1. **Clonare la repository**: Prima di tutto, clona questa repo sul tuo computer:
    ```bash
-   git clone https://github.com/tuo_username/corso-programmazione-base.git
+   git clone https://github.com/tuo_username/CodingZERO-2024.git
    ```
 
 2. **Naviga nelle cartelle**: Vai nella cartella corrispondente alla lezione che stai seguendo per trovare il codice, le slide e gli esercizi.
