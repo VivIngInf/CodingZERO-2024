@@ -44,9 +44,7 @@ Ogni lezione sarà suddivisa in una parte teorica e una pratica. Qui sotto trove
 2. **Variabili e tipi di dato**
 3. **Cicli e condizionali**
 4. **Funzioni**
-5. **Gestione degli errori**
-6. **Strutture dati (liste, array, ecc.)**
-7. **Introduzione agli oggetti**
+5. **Strutture dati (liste, array, ecc.)**
 8. **Progetti finali**
 
 ## 📝 Come Usare Questa Repo
@@ -63,10 +61,6 @@ Ogni lezione sarà suddivisa in una parte teorica e una pratica. Qui sotto trove
 ## 🔗 Risorse Aggiuntive
 
 Per approfondire alcuni concetti o temi trattati durante le lezioni, abbiamo creato una sezione apposita chiamata [risorse/](./risorse/), dove troverete articoli e tutorial utili.
-
-## 🤝 Contributi
-
-Se vuoi contribuire al miglioramento di questa repo (ad esempio correggendo errori o aggiungendo risorse), sentiti libero di aprire una **pull request**. Ogni contributo è benvenuto!
 
 ## 📧 Contatti
 
