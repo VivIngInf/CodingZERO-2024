@@ -1,4 +1,3 @@
-
 # 🚀 CODING ZERO 24
 
 Benvenuti alla repository ufficiale del **CODING ZERO**! 🎉
@@ -35,6 +34,7 @@ Il corso si propone di fornire una solida base di programmazione ai principianti
 - Scrivere semplici programmi in un linguaggio di programmazione a scelta (Python, JavaScript, ecc.)
 - Risolvere problemi logici e strutturare il codice in modo leggibile e manutenibile
 - Utilizzare strumenti come GitHub per gestire il proprio codice
+- Ottenere le basi dei sistemi GNU/Linux.
 
 ## 📅 Programma del Corso
 
@@ -45,14 +45,17 @@ Ogni lezione sarà suddivisa in una parte teorica e una pratica. Qui sotto trove
 3. **Cicli e condizionali**
 4. **Funzioni**
 5. **Strutture dati (liste, array, ecc.)**
-8. **Progetti finali**
+6. **Progetti finali**
 
 ## 📝 Come Usare Questa Repo
 
 1. **Clonare la repository**: Prima di tutto, clona questa repo sul tuo computer:
+
    ```bash
    git clone https://github.com/tuo_username/CodingZERO-2024.git
    ```
+
+   Oppure scaricala in formato zip tramite **"<>Code"** in verde in alto a destra e **"Download ZIP"**
 
 2. **Naviga nelle cartelle**: Vai nella cartella corrispondente alla lezione che stai seguendo per trovare il codice, le slide e gli esercizi.
 
@@ -64,11 +67,16 @@ Per approfondire alcuni concetti o temi trattati durante le lezioni, abbiamo cre
 
 ## 📧 Contatti
 
-Per qualsiasi dubbio o domanda, puoi contattare gli insegnante del corso:
-- **Daniele Susino**: susino.daniele@outlook.com
-- **Diego Corona**: corona.diego@outlook.com
-- **Gabriele Iovino**: gabrieleiovino839@gmail.com 
+Per qualsiasi dubbio o domanda, puoi contattare gli insegnanti del corso:
+
+- **Daniele Susino**: [email](susino.daniele@outlook.com), [linkedin](https://www.linkedin.com/in/susinodaniele/), [instagram](https://www.instagram.com/daniele.susino/)
+- **Diego Corona**: [email](corona.diego@outlook.com)
+- **Gabriele Iovino**: [email](gabrieleiovino839@gmail.com)
 
 ---
 
 💡 **Nota**: Questa repository è parte di un corso base di programmazione e il suo contenuto è destinato a scopi educativi. Se trovi qualche errore o hai suggerimenti, non esitare a segnalarlo! Buono studio! 😄
+
+## ©️ DIRITTI
+
+Si ringrazia [Storyset](https://storyset.com) per le illustrazioni.
