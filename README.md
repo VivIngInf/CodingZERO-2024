@@ -69,14 +69,14 @@ Per approfondire alcuni concetti o temi trattati durante le lezioni, abbiamo cre
 
 Per qualsiasi dubbio o domanda, puoi contattare gli insegnanti del corso:
 
-- **Daniele Susino**: [email](mailto:susino.daniele@outlook.com), [linkedin](https://www.linkedin.com/in/susinodaniele/), [instagram](https://www.instagram.com/daniele.susino/)
-- **Diego Corona**: [email](mailto:corona.diego@outlook.com)
-- **Gabriele Iovino**: [email](mailto:gabrieleiovino839@gmail.com)
-
----
-
-💡 **Nota**: Questa repository è parte di un corso base di programmazione e il suo contenuto è destinato a scopi educativi. Se trovi qualche errore o hai suggerimenti, non esitare a segnalarlo! Buono studio! 😄
+- **Daniele Susino**: [Email](mailto:susino.daniele@outlook.com), [Linkedin](https://www.linkedin.com/in/susinodaniele/), [Instagram](https://www.instagram.com/daniele.susino/);
+- **Diego Corona**: [Email](mailto:corona.diego@outlook.com);
+- **Gabriele Iovino**: [Email](mailto:gabrieleiovino839@gmail.com);
 
 ## ©️ DIRITTI
 
 Si ringrazia [Storyset](https://storyset.com) per le illustrazioni.
+
+---
+
+💡 **Nota**: Questa repository è parte di un corso base di programmazione e il suo contenuto è destinato a scopi educativi. Se trovi qualche errore o hai suggerimenti, non esitare a segnalarlo! Buono studio! 😄
