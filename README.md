@@ -33,7 +33,6 @@ Il corso si propone di fornire una solida base di programmazione ai principianti
 - Capire i fondamenti della programmazione (variabili, cicli, funzioni, ecc.)
 - Scrivere semplici programmi in un linguaggio di programmazione a scelta (Python, JavaScript, ecc.)
 - Risolvere problemi logici e strutturare il codice in modo leggibile e manutenibile
-- Utilizzare strumenti come GitHub per gestire il proprio codice
 - Ottenere le basi dei sistemi GNU/Linux.
 
 ## 📅 Programma del Corso
