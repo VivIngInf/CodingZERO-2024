@@ -9,19 +9,19 @@ In questa repo troverete tutto il materiale necessario per seguire il corso: cod
 La repo è organizzata per facilitare la navigazione tra le varie sezioni del corso. Ecco la struttura principale:
 
 ```
-├── codice/                # Tutti i codici sorgente usati durante il corso
-│   ├── lezione1/
-│   ├── lezione2/
+├── Codice/                # Tutti i codici sorgente usati durante il corso
+│   ├── lezione1 - Nome Docente/
+│   ├── lezione2 - Nome Docente/
 │   └── ...
-├── presentazioni/         # Slide delle lezioni in formato PDF
+├── Presentazioni/         # Slide delle lezioni in formato PDF
 │   ├── lezione1.pdf
 │   ├── lezione2.pdf
 │   └── ...
-├── esercizi/              # Esercizi pratici con soluzioni
+├── Esercizi/              # Esercizi pratici con soluzioni
 │   ├── esercizi_lezione1.md
 │   ├── esercizi_lezione2.md
 │   └── ...
-├── risorse/               # Materiale aggiuntivo (articoli, tutorial, ecc.)
+├── Risorse/               # Materiale aggiuntivo (articoli, tutorial, ecc.)
 │   └── risorse_markdown.md
 └── README.md              # Il file che stai leggendo ora 😄
 ```
