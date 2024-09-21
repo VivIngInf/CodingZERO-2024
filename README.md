@@ -69,7 +69,7 @@ Per approfondire alcuni concetti o temi trattati durante le lezioni, abbiamo cre
 Per qualsiasi dubbio o domanda, puoi contattare gli insegnanti del corso:
 
 - **Daniele Susino**: [Email](mailto:susino.daniele@outlook.com), [Linkedin](https://www.linkedin.com/in/susinodaniele/), [Instagram](https://www.instagram.com/daniele.susino/);
-- **Diego Corona**: [Email](mailto:corona.diego@outlook.com), [Linkedin](https://www.linkedin.com/in/diegocorona03), [Instagram](https://www.instagram.com/7_die_3/);
+- **Diego Corona**: [Email](mailto:corona.diego@outlook.com), [Linkedin](https://www.linkedin.com/in/diegocorona03), [Instagram](https://www.instagram.com/diego_co3/);
 - **Gabriele Iovino**: [Email](mailto:gabrieleiovino839@gmail.com);
 
 ## ©️ DIRITTI
