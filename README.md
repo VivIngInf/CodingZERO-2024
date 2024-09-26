@@ -84,12 +84,12 @@ Per qualsiasi **dubbio o domanda**, puoi **contattare** gli **insegnanti** del c
       <th>Gabriele Iovino</th>
   </tr>
   <tr>
-      <td><img src="./Risorse/Foto/Vincenzo Luigi Mazza.jpg" alt="Vincenzo Luigi Mazza" width="150" height="150"></td>
-      <td><img src="./Risorse/Foto/Gianluca Auletta.jpg" alt="Gianluca Auletta" width="150" height="150"></td>
-      <td><img src="./Risorse/Foto/Benedetto DAmico.jpg" alt="Benedetto D'Amico" width="150" height="150"></td>
-      <td><img src="./Risorse/Foto/Daniele Orazio Susino.jpg" alt="Daniele Orazio Susino" width="150" height="150"></td>
-      <td><img src="./Risorse/Foto/Diego Corona.jpg" alt="Diego Corona" width="150" height="150"></td>
-      <td><img src="./Risorse/Foto/Gabriele Iovino.jpg" alt="Gabriele Iovino" width="150" height="150"></td>
+      <td><img src="./Risorse/Foto/Vincenzo Luigi Mazza.jpg" alt="Vincenzo Luigi Mazza" width="150"></td>
+      <td><img src="./Risorse/Foto/Gianluca Auletta.jpg" alt="Gianluca Auletta" width="150"></td>
+      <td><img src="./Risorse/Foto/Benedetto DAmico.jpg" alt="Benedetto D'Amico" width="150"></td>
+      <td><img src="./Risorse/Foto/Daniele Orazio Susino.jpg" alt="Daniele Orazio Susino" width="150"></td>
+      <td><img src="./Risorse/Foto/Diego Corona.jpg" alt="Diego Corona" width="150"></td>
+      <td><img src="./Risorse/Foto/Gabriele Iovino.jpg" alt="Gabriele Iovino" width="150"></td>
   </tr>
   <tr>
       <td>Project manager</td>
@@ -100,32 +100,32 @@ Per qualsiasi **dubbio o domanda**, puoi **contattare** gli **insegnanti** del c
       <td>Linguaggio Python</td>
   </tr>
   <tr>
-      <td style="text-align: center;">
+      <td>
          <a href="https://www.instagram.com/vin.mazza/">Instagram 📸</a><br>
          <a href="https://www.linkedin.com/in/vincenzo-luigi-mazza-a39024329">LinkedIn 👔</a><br>
          <a href="mailto:mzz.vincenzo@gmail.com">Email 📨</a>
       </td>
-      <td style="text-align: center;">
+      <td>
          <a href="https://www.instagram.com/aulettagianluca/">Instagram 📸</a><br>
          <a href="https://it.linkedin.com/in/gianluca-auletta">LinkedIn 👔</a><br>
          <a href="mailto:insegnante1@email.com">Email 📨</a>
       </td>
-      <td style="text-align: center;">
+      <td>
          <a href="https://www.instagram.com/benedetto_damico37/">Instagram 📸</a><br>
          <a href="https://www.linkedin.com/in/benedetto-d-amico-1b9451240">LinkedIn 👔</a><br>
          <a href="mailto:bennyda82@gmail.com">Email 📨</a>
       </td>
-      <td style="text-align: center;">
+      <td>
          <a href="https://www.instagram.com/daniele.susino/">Instagram 📸</a><br>
          <a href="https://www.linkedin.com/in/susinodaniele/">LinkedIn 👔</a><br>
          <a href="mailto:susino.daniele@outlook.com">Email 📨</a>
       </td>
-      <td style="text-align: center;">
+      <td>
          <a href="https://www.instagram.com/diego_co3/">Instagram 📸</a><br>
          <a href="https://www.linkedin.com/in/diegocorona03">LinkedIn 👔</a><br>
          <a href="mailto:corona.diego@outlook.com">Email 📨</a>
        </td>
-      <td style="text-align: center;">
+      <td>
          <a href="https://www.instagram.com/gabriele.iovino_/">Instagram 📸</a><br>
          <a href="https://www.linkedin.com/in/gabriele-iovino-517090243">LinkedIn 👔</a><br>
          <a href="mailto:gabrieleiovino839@gmail.com">Email 📨</a>
