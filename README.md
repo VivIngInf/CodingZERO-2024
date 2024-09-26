@@ -1,7 +1,7 @@
 ![Project's banner](./Risorse/Banner.png)
 ![GitHub repo size](https://img.shields.io/github/repo-size/xGariko/CodingZERO-2024)
 
-# 🚀 CODING ZERO 24
+# 🚀 CODING ZERO 2024
 
 Benvenuti alla repository ufficiale di **CODING ZERO**! 🎉
 
@@ -13,48 +13,48 @@ La repo è organizzata per facilitare la navigazione tra le varie sezioni del co
 
 ```
 ┌── Codice/                # Tutti i codici sorgente usati durante il corso
-│   ├── lezione1 - Nome Docente/
-│   ├── lezione2 - Nome Docente/
+│   ├── Lezione 1 - Argomento - Nome Docente/
+│   ├── Lezione 2 - Argomento - Nome Docente/
 │   └── ...
 ├── Presentazioni/         # Slide delle lezioni in formato PDF e PowerPoint
-│   ├── lezione1.pdf
-│   ├── lezione2.pdf
+│   ├── Lezione 1 - Argomento - Nome Docente/
+│   │   ├── Lezione.pdf
+│   │   └── Lezione.pptx
+│   ├── Lezione 2 - Argomento - Nome Docente/
+│   │   ├── Lezione.pdf
+│   │   └── Lezione.pptx
 │   └── ...
 ├── Esercizi/              # Esercizi pratici con soluzioni
-│   ├── esercizi_lezione1.md
-│   ├── esercizi_lezione2.md
+│   ├── Lezione 1 - Argomento - Nome Docente/
+│   │   ├── Esercizi.md
+│   │   └── Soluzioni.md
+│   ├── Lezione 2 - Argomento - Nome Docente/
+│   │   ├── Esercizi.md
+│   │   └── Soluzioni.md
 │   └── ...
 ├── Materiale/             # Materiale aggiuntivo (articoli, tutorial, ecc.)
-│   └── risorse_markdown.md
-├── Risorse/               # Materiale aggiuntivo (articoli, tutorial, ecc.)
+│   ├── Guida.pdf
+│   ├── Orario.png
+│   └── ...
+├── Risorse/               # Risorse utilizzate nella creazione delle slide e della repo
 │   ├── Banner.png
-│   └── Sfondo PowerPoint.jpg
+│   ├── Sfondo PowerPoint.jpg
+│   └── ...
 └── README.md              # Il file che stai leggendo ora 😄
 ```
 
 ## 👨‍🏫 Obiettivi del Corso
 
-Il **corso** si propone di fornire una **solida base di programmazione** ai principianti, con un approccio pratico. Al termine del corso, **sarai in grado di**:
+Il **corso** si propone di fornire una **solida base di programmazione** ai principianti, con un approccio pratico. **Ogni lezione** sarà suddivisa in una **parte teorica e una pratica**. Al termine del corso, **sarai in grado di**:
 
 - Capire i **fondamenti** della **programmazione** (variabili, cicli, funzioni, ecc.)
+- Ottenere le **basi dei sistemi GNU/Linux**.
 - **Scrivere semplici programmi** in linguaggio C oppure Python
 - **Risolvere problemi logici** e strutturare il codice in modo leggibile e manutenibile
-- Ottenere le **basi dei sistemi GNU/Linux**.
-
-## 📅 Programma del Corso
-
-**Ogni lezione** sarà suddivisa in una **parte teorica e una pratica**. Qui sotto troverete una panoramica del programma:
-
-1. **Introduzione alla programmazione**
-2. **Variabili e tipi di dato**
-3. **Cicli e condizionali**
-4. **Funzioni**
-5. **Strutture dati (liste, array, ecc.)**
-6. **Progetti finali**
 
 ## 📝 Come Usare Questa Repo
 
-1. **Clonare la repository**: Prima di tutto, clona questa repo sul tuo computer:
+1. **Scaricare la repository**: Prima di tutto, clona questa repo sul tuo computer:
 
    ```bash
    git clone https://github.com/tuo_username/CodingZERO-2024.git
@@ -74,9 +74,62 @@ Per **approfondire alcuni concetti** o temi trattati durante le lezioni, abbiamo
 
 Per qualsiasi **dubbio o domanda**, puoi **contattare** gli **insegnanti** del corso:
 
+<table>
+
 - **Daniele Susino**: [Email](mailto:susino.daniele@outlook.com), [Linkedin](https://www.linkedin.com/in/susinodaniele/), [Instagram](https://www.instagram.com/daniele.susino/);
 - **Diego Corona**: [Email](mailto:corona.diego@outlook.com), [Linkedin](https://www.linkedin.com/in/diegocorona03), [Instagram](https://www.instagram.com/diego_co3/);
 - **Gabriele Iovino**: [Email](mailto:gabrieleiovino839@gmail.com);
+
+<table>
+  <tr>
+    <th>Gianluca Auletta</th>
+    <th>Vincenzo Mazza</th>
+    <th>Benedetto ...</th>
+    <th>Daniele Orazio Susino</th>
+    <th>Diego Corona</th>
+    <th>Gabriele Iovino</th>
+  </tr>
+  <tr>
+    <td><img src="./Risorse/Foto/Gabriele Iovino.jpg" alt="Gianluca Auletta" width="150"></td>
+    <td><img src="./Risorse/Foto/Gabriele Iovino.jpg" alt="Vincenzo Mazza" width="150"></td>
+    <td><img src="./Risorse/Foto/Gabriele Iovino.jpg" alt="Benedetto ..." width="150"></td>
+    <td><img src="./Risorse/Foto/Gabriele Iovino.jpg" alt="Daniele Orazio Susino" width="150"></td>
+    <td><img src="./Risorse/Foto/Gabriele Iovino.jpg" alt="Diego Corona" width="150"></td>
+    <td><img src="./Risorse/Foto/Gabriele Iovino.jpg" alt="Gabriele Iovino" width="150"></td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://instagram.com/instagram_insegnante1">Instagram 📸</a><br>
+      <a href="https://linkedin.com/in/linkedin_insegnante1">LinkedIn 👔</a><br>
+      <a href="mailto:insegnante1@email.com">Email 📨</a>
+    </td>
+    <td>
+      <a href="https://instagram.com/instagram_insegnante2">Instagram 📸</a><br>
+      <a href="https://linkedin.com/in/linkedin_insegnante2">LinkedIn 👔</a><br>
+      <a href="mailto:insegnante2@email.com">Email 📨</a>
+    </td>
+    <td>
+      <a href="https://instagram.com/instagram_insegnante3">Instagram 📸</a><br>
+      <a href="https://linkedin.com/in/linkedin_insegnante3">LinkedIn 👔</a><br>
+      <a href="mailto:insegnante3@email.com">Email 📨</a>
+    </td>
+    <td>
+      <a href="https://instagram.com/instagram_insegnante4">Instagram 📸</a><br>
+      <a href="https://linkedin.com/in/linkedin_insegnante4">LinkedIn 👔</a><br>
+      <a href="mailto:insegnante4@email.com">Email 📨</a>
+    </td>
+        <td>
+      <a href="https://instagram.com/instagram_insegnante4">Instagram 📸</a><br>
+      <a href="https://linkedin.com/in/linkedin_insegnante4">LinkedIn 👔</a><br>
+      <a href="mailto:insegnante4@email.com">Email 📨</a>
+    </td>
+        <td>
+      <a href="https://instagram.com/instagram_insegnante4">Instagram 📸</a><br>
+      <a href="https://linkedin.com/in/linkedin_insegnante4">LinkedIn 👔</a><br>
+      <a href="mailto:insegnante4@email.com">Email 📨</a>
+    </td>
+  </tr>
+</table>
 
 ## ©️ DIRITTI
 
