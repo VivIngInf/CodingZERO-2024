@@ -107,7 +107,7 @@ Per qualsiasi **dubbio o domanda**, puoi **contattare** gli **insegnanti** del c
       </td>
       <td>
          <a href="https://www.instagram.com/aulettagianluca/">Instagram 📸</a><br>
-         <a href="https://it.linkedin.com/in/gianluca-auletta">LinkedIn 👔</a><br>
+         <a href="https://www.linkedin.com/in/gianluca-auletta-322b9116b">LinkedIn 👔</a><br>
          <a href="mailto:Auletta2303@gmail.com">Email 📨</a>
       </td>
       <td>
