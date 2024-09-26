@@ -86,7 +86,7 @@ Per qualsiasi **dubbio o domanda**, puoi **contattare** gli **insegnanti** del c
   <tr>
       <td><img src="./Risorse/Foto/Vincenzo Luigi Mazza.jpg" alt="Vincenzo Luigi Mazza" width="150"></td>
       <td><img src="./Risorse/Foto/Gianluca Auletta.jpg" alt="Gianluca Auletta" width="150"></td>
-      <td><img src="./Risorse/Foto/Benedetto DAmico.jpg" alt="Benedetto D'Amico" width="150"></td>
+      <td><img src="./Risorse/Foto/Benedetto D'Amico.jpg" alt="Benedetto D'Amico" width="150"></td>
       <td><img src="./Risorse/Foto/Daniele Orazio Susino.jpg" alt="Daniele Orazio Susino" width="150"></td>
       <td><img src="./Risorse/Foto/Diego Corona.jpg" alt="Diego Corona" width="150"></td>
       <td><img src="./Risorse/Foto/Gabriele Iovino.jpg" alt="Gabriele Iovino" width="150"></td>
@@ -108,7 +108,7 @@ Per qualsiasi **dubbio o domanda**, puoi **contattare** gli **insegnanti** del c
       <td>
          <a href="https://www.instagram.com/aulettagianluca/">Instagram 📸</a><br>
          <a href="https://it.linkedin.com/in/gianluca-auletta">LinkedIn 👔</a><br>
-         <a href="mailto:insegnante1@email.com">Email 📨</a>
+         <a href="mailto:Auletta2303@gmail.com">Email 📨</a>
       </td>
       <td>
          <a href="https://www.instagram.com/benedetto_damico37/">Instagram 📸</a><br>
