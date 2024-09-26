@@ -76,23 +76,23 @@ Per qualsiasi **dubbio o domanda**, puoi **contattare** gli **insegnanti** del c
 
 <table>
   <tr>
-      <th>Gianluca Auletta</th>
       <th>Vincenzo Mazza</th>
+      <th>Gianluca Auletta</th>
       <th>Benedetto D'Amico</th>
       <th>Daniele Susino</th>
       <th>Diego Corona</th>
       <th>Gabriele Iovino</th>
   </tr>
   <tr>
-      <td><img src="./Risorse/Foto/Gianluca Auletta.jpg" alt="Gianluca Auletta" width="150"></td>
-      <td><img src="./Risorse/Foto/Vincenzo Luigi Mazza.jpg" alt="Vincenzo Luigi Mazza" width="150"></td>
-      <td><img src="./Risorse/Foto/Benedetto DAmico.jpg" alt="Benedetto D'Amico" width="150"></td>
-      <td><img src="./Risorse/Foto/Daniele Orazio Susino.jpg" alt="Daniele Orazio Susino" width="150"></td>
-      <td><img src="./Risorse/Foto/Diego Corona.jpg" alt="Diego Corona" width="150"></td>
-      <td><img src="./Risorse/Foto/Gabriele Iovino.jpg" alt="Gabriele Iovino" width="150"></td>
+      <td><img src="./Risorse/Foto/Vincenzo Luigi Mazza.jpg" alt="Vincenzo Luigi Mazza" width="150" height="150"></td>
+      <td><img src="./Risorse/Foto/Gianluca Auletta.jpg" alt="Gianluca Auletta" width="150" height="150"></td>
+      <td><img src="./Risorse/Foto/Benedetto DAmico.jpg" alt="Benedetto D'Amico" width="150" height="150"></td>
+      <td><img src="./Risorse/Foto/Daniele Orazio Susino.jpg" alt="Daniele Orazio Susino" width="150" height="150"></td>
+      <td><img src="./Risorse/Foto/Diego Corona.jpg" alt="Diego Corona" width="150" height="150"></td>
+      <td><img src="./Risorse/Foto/Gabriele Iovino.jpg" alt="Gabriele Iovino" width="150" height="150"></td>
   </tr>
   <tr>
-      <td>Flowcharts e pseudocodice</td>
+      <td>Project manager</td>
       <td>Flowcharts e pseudocodice</td>
       <td>Flowcharts e pseudocodice</td>
       <td>Linux ed opensource</td>
@@ -101,14 +101,14 @@ Per qualsiasi **dubbio o domanda**, puoi **contattare** gli **insegnanti** del c
   </tr>
   <tr>
       <td style="text-align: center;">
-         <a href="https://www.instagram.com/aulettagianluca/">Instagram 📸</a><br>
-         <a href="https://it.linkedin.com/in/gianluca-auletta">LinkedIn 👔</a><br>
-         <a href="mailto:insegnante1@email.com">Email 📨</a>
-      </td>
-      <td style="text-align: center;">
          <a href="https://www.instagram.com/vin.mazza/">Instagram 📸</a><br>
          <a href="https://www.linkedin.com/in/vincenzo-luigi-mazza-a39024329">LinkedIn 👔</a><br>
          <a href="mailto:mzz.vincenzo@gmail.com">Email 📨</a>
+      </td>
+      <td style="text-align: center;">
+         <a href="https://www.instagram.com/aulettagianluca/">Instagram 📸</a><br>
+         <a href="https://it.linkedin.com/in/gianluca-auletta">LinkedIn 👔</a><br>
+         <a href="mailto:insegnante1@email.com">Email 📨</a>
       </td>
       <td style="text-align: center;">
          <a href="https://www.instagram.com/benedetto_damico37/">Instagram 📸</a><br>
