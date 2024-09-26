@@ -12,7 +12,7 @@ In questa repo troverete tutto il **materiale necessario** per seguire il corso:
 La repo è organizzata per facilitare la navigazione tra le varie sezioni del corso. Ecco la **struttura principale**:
 
 ```
-├── Codice/                # Tutti i codici sorgente usati durante il corso
+┌── Codice/                # Tutti i codici sorgente usati durante il corso
 │   ├── lezione1 - Nome Docente/
 │   ├── lezione2 - Nome Docente/
 │   └── ...
@@ -24,8 +24,11 @@ La repo è organizzata per facilitare la navigazione tra le varie sezioni del co
 │   ├── esercizi_lezione1.md
 │   ├── esercizi_lezione2.md
 │   └── ...
-├── Risorse/               # Materiale aggiuntivo (articoli, tutorial, ecc.)
+├── Materiale/             # Materiale aggiuntivo (articoli, tutorial, ecc.)
 │   └── risorse_markdown.md
+├── Risorse/               # Materiale aggiuntivo (articoli, tutorial, ecc.)
+│   ├── Banner.png
+│   └── Sfondo PowerPoint.jpg
 └── README.md              # Il file che stai leggendo ora 😄
 ```
 
