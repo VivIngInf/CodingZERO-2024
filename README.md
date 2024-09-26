@@ -92,12 +92,12 @@ Per qualsiasi **dubbio o domanda**, puoi **contattare** gli **insegnanti** del c
       <td><img src="./Risorse/Foto/Gabriele Iovino.jpg" alt="Gabriele Iovino" width="150"></td>
   </tr>
   <tr>
-      <td>Project manager</td>
-      <td>Flowcharts e pseudocodice</td>
-      <td>Flowcharts e pseudocodice</td>
-      <td>Linux ed opensource</td>
-      <td>Linguaggio C</td>
-      <td>Linguaggio Python</td>
+      <td>Manager</td>
+      <td>Flowcharts</td>
+      <td>Flowcharts</td>
+      <td>Linux</td>
+      <td>Codice C</td>
+      <td>Codice Python</td>
   </tr>
   <tr>
       <td>
