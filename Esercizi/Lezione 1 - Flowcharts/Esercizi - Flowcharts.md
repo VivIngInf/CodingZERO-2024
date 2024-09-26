@@ -1,5 +1,7 @@
 # ESERCIZI CON FLOWCHART
 
+Tutti questi esercizi devono essere **svolti** **dopo** aver letto le **slide della prima lezione**.
+
 **Consegne**:
 
 - Creare il flowchart di un algoritmo che dati in input **tre numeri** dall'utente, ne fa la **somma e la stamapa** a schermo. [Soluzione](./sommatrenumeri.png)
