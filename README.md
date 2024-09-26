@@ -133,10 +133,8 @@ Per qualsiasi **dubbio o domanda**, puoi **contattare** gli **insegnanti** del c
   </tr>
 </table>
 
-## ©️ DIRITTI
-
-Si ringrazia [Storyset](https://storyset.com) per le illustrazioni.
-
 ---
 
 💡 **Nota**: Questa repository è parte di un corso base di programmazione e il suo **contenuto è destinato a scopi educativi**. Se trovi qualche **errore** o hai **suggerimenti**, **non esitare a segnalarlo**! Buono studio! 😄
+
+Si ringrazia [Storyset](https://storyset.com) per le illustrazioni.
