@@ -137,6 +137,7 @@ Ognuno di questi **esercizi** deve essere **svolto dal terminale** di Ubuntu o d
 - Cercare e capire come **riprodurre Star Wars sul terminale**
 
 ```shell
+    sudo apt update                 # Aggiorniamo la cache del gestore di pacchetti
     sudo apt install telnet         # Installiamo il protocollo telnet
     telnet towel.blinkenlights.nl   # Usiamo il protocollo telnet per collegarci al server dove guardare Star Wars
 ```
@@ -146,5 +147,3 @@ Ognuno di questi **esercizi** deve essere **svolto dal terminale** di Ubuntu o d
 ```shell
    # Per terminare un programma dal terminale, bisogna premere la combinazione di tasti Ctrl + C
 ```
-
-**ATTENZIONE**: Alcuni comandi **non** sono stati **spiegati** **appositamente**, provate a cercarli su google
