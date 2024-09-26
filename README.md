@@ -1,19 +1,22 @@
+![Project's banner](./Risorse/Banner.png)
+![GitHub repo size](https://img.shields.io/github/repo-size/xGariko/CodingZERO-2024)
+
 # 🚀 CODING ZERO 24
 
-Benvenuti alla repository ufficiale del **CODING ZERO**! 🎉
+Benvenuti alla repository ufficiale di **CODING ZERO**! 🎉
 
-In questa repo troverete tutto il materiale necessario per seguire il corso: codice, slide, esercizi e ulteriori risorse. Siamo entusiasti di accompagnarvi in questo viaggio alla scoperta della programmazione! 💻
+In questa repo troverete tutto il **materiale necessario** per seguire il corso: codice, slide, esercizi e ulteriori risorse. Siamo entusiasti di accompagnarvi in questo viaggio **alla scoperta della programmazione**! 💻
 
 ## 📂 Struttura della Repository
 
-La repo è organizzata per facilitare la navigazione tra le varie sezioni del corso. Ecco la struttura principale:
+La repo è organizzata per facilitare la navigazione tra le varie sezioni del corso. Ecco la **struttura principale**:
 
 ```
 ├── Codice/                # Tutti i codici sorgente usati durante il corso
 │   ├── lezione1 - Nome Docente/
 │   ├── lezione2 - Nome Docente/
 │   └── ...
-├── Presentazioni/         # Slide delle lezioni in formato PDF
+├── Presentazioni/         # Slide delle lezioni in formato PDF e PowerPoint
 │   ├── lezione1.pdf
 │   ├── lezione2.pdf
 │   └── ...
@@ -28,16 +31,16 @@ La repo è organizzata per facilitare la navigazione tra le varie sezioni del co
 
 ## 👨‍🏫 Obiettivi del Corso
 
-Il corso si propone di fornire una solida base di programmazione ai principianti, con un approccio pratico. Al termine del corso, sarai in grado di:
+Il **corso** si propone di fornire una **solida base di programmazione** ai principianti, con un approccio pratico. Al termine del corso, **sarai in grado di**:
 
-- Capire i fondamenti della programmazione (variabili, cicli, funzioni, ecc.)
-- Scrivere semplici programmi in un linguaggio di programmazione a scelta (Python, JavaScript, ecc.)
-- Risolvere problemi logici e strutturare il codice in modo leggibile e manutenibile
-- Ottenere le basi dei sistemi GNU/Linux.
+- Capire i **fondamenti** della **programmazione** (variabili, cicli, funzioni, ecc.)
+- **Scrivere semplici programmi** in linguaggio C oppure Python
+- **Risolvere problemi logici** e strutturare il codice in modo leggibile e manutenibile
+- Ottenere le **basi dei sistemi GNU/Linux**.
 
 ## 📅 Programma del Corso
 
-Ogni lezione sarà suddivisa in una parte teorica e una pratica. Qui sotto troverete una panoramica del programma:
+**Ogni lezione** sarà suddivisa in una **parte teorica e una pratica**. Qui sotto troverete una panoramica del programma:
 
 1. **Introduzione alla programmazione**
 2. **Variabili e tipi di dato**
@@ -54,7 +57,7 @@ Ogni lezione sarà suddivisa in una parte teorica e una pratica. Qui sotto trove
    git clone https://github.com/tuo_username/CodingZERO-2024.git
    ```
 
-   Oppure scaricala in formato zip tramite **"<>Code"** in verde in alto a destra e **"Download ZIP"**
+   **Oppure** scaricala in formato zip tramite **"<>Code"** in verde in alto a destra e **"Download ZIP"**
 
 2. **Naviga nelle cartelle**: Vai nella cartella corrispondente alla lezione che stai seguendo per trovare il codice, le slide e gli esercizi.
 
@@ -62,11 +65,11 @@ Ogni lezione sarà suddivisa in una parte teorica e una pratica. Qui sotto trove
 
 ## 🔗 Risorse Aggiuntive
 
-Per approfondire alcuni concetti o temi trattati durante le lezioni, abbiamo creato una sezione apposita chiamata [risorse/](./risorse/), dove troverete articoli e tutorial utili.
+Per **approfondire alcuni concetti** o temi trattati durante le lezioni, abbiamo creato una **sezione apposita** chiamata **[risorse/](./risorse/)**, dove troverete articoli e tutorial utili.
 
 ## 📧 Contatti
 
-Per qualsiasi dubbio o domanda, puoi contattare gli insegnanti del corso:
+Per qualsiasi **dubbio o domanda**, puoi **contattare** gli **insegnanti** del corso:
 
 - **Daniele Susino**: [Email](mailto:susino.daniele@outlook.com), [Linkedin](https://www.linkedin.com/in/susinodaniele/), [Instagram](https://www.instagram.com/daniele.susino/);
 - **Diego Corona**: [Email](mailto:corona.diego@outlook.com), [Linkedin](https://www.linkedin.com/in/diegocorona03), [Instagram](https://www.instagram.com/diego_co3/);
@@ -78,4 +81,4 @@ Si ringrazia [Storyset](https://storyset.com) per le illustrazioni.
 
 ---
 
-💡 **Nota**: Questa repository è parte di un corso base di programmazione e il suo contenuto è destinato a scopi educativi. Se trovi qualche errore o hai suggerimenti, non esitare a segnalarlo! Buono studio! 😄
+💡 **Nota**: Questa repository è parte di un corso base di programmazione e il suo **contenuto è destinato a scopi educativi**. Se trovi qualche **errore** o hai **suggerimenti**, **non esitare a segnalarlo**! Buono studio! 😄
