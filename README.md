@@ -77,9 +77,9 @@ Per qualsiasi **dubbio o domanda**, puoi **contattare** gli **insegnanti** del c
 <table>
   <tr>
       <th>Gianluca Auletta</th>
-      <th>Vincenzo Luigi Mazza</th>
+      <th>Vincenzo Mazza</th>
       <th>Benedetto D'Amico</th>
-      <th>Daniele Orazio Susino</th>
+      <th>Daniele Susino</th>
       <th>Diego Corona</th>
       <th>Gabriele Iovino</th>
   </tr>
