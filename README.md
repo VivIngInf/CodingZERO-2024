@@ -68,7 +68,7 @@ Il **corso** si propone di fornire una **solida base di programmazione** ai prin
 
 ## 🔗 Risorse Aggiuntive
 
-Per **approfondire alcuni concetti** o temi trattati durante le lezioni, abbiamo creato una **sezione apposita** chiamata **[risorse/](./risorse/)**, dove troverete articoli e tutorial utili.
+Per **approfondire alcuni concetti** o temi trattati durante le lezioni, abbiamo creato una **sezione apposita** chiamata **[materiale/](./Materiale/)**, dove troverete articoli e tutorial utili.
 
 ## 📧 Contatti
 
